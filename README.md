@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arghya Hazra</h1>
+<h1 align="center">Hello👋, I'm Arghya Hazra</h1>
 <h3 align="center">A passionate developer having the thrust of learning new skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya137&label=Profile%20views&color=0e75b6&style=flat" alt="arghya137" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya137" alt="arghya137" /></a> </p>
 
-- 🌱 I’m currently interested in **Deep Learning**
+- 👨‍💻 I’m currently interested in **Deep Learning**
 
 - 📝 My personal portfolio [https://arghya137.github.io/Portfolio/](https://arghya137.github.io/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/arghya137](https://github.com/arghya137)
+- 💻 All of my projects are available at [https://github.com/arghya137](https://github.com/arghya137)
 
 - 💬 Ask me about **ML, Data science, C++**
 
