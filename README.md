@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋, I'm Arghya Hazra<br><br>👨‍💻 I'm currently interested in Deep Learning<br><br>📝 My personal portfolio- https://arghya137.github.io/Portfolio/<br><br>💻 All of my projects are available at https://github.com/arghya137<br><br>💬 Ask me about ML, Data science, C++<br><br>📫 How to reach me- arghyahazra137@gmail.com<br><br>📄 My resume- https://drive.google.com/file/d/11RkIAlbykYeJJJGHUBQ1lQZ7O-qR3QWK/view?usp=sharing
+Hello👋, I'm Arghya Hazra<br><br>👨‍💻 I'm currently interested in Deep Learning<br><br>📝 My personal portfolio- https://arghya137.github.io/Portfolio/<br><br>💻 All of my projects are available at https://github.com/arghya137<br><br>💬 Ask me about ML, Data science, C++<br><br>📫 How to reach me- arghyahazra137@gmail.com<br><br>📄 My resume- https://drive.google.com/file/d/1n74BlwXV5RnVHC8bTQlG_uPwlg6n5caE/view?usp=sharing
 
 
 ## 🌐 Socials:
