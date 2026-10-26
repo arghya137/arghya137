@@ -1,12 +1,14 @@
 Hi, I'm Arghya Hazra 👋
 
-Automotive Software Engineer @ KPIT Technologies · Pune, India
+Automotive Software Engineer @ BMW Techworks India | Ex @ KPIT Technologies · Pune, India
 
-I work on hybrid powertrain ECU software, specializing in smoke testing and initial validation in HIL (Hardware-in-the-Loop) environments. I enjoy requirement analysis, Python automation, and fault testing through root cause analysis. Outside work I build machine learning projects in Python.
+I have newly joined BMW Techworks India as a Calibration Engineer for BMW M-sport vehicles.
+
+Previously, I had worked on hybrid powertrain ECU software, specializing in smoke testing and initial validation in HIL (Hardware-in-the-Loop) environments. I enjoy requirement analysis, Python automation, and fault testing through root cause analysis. Outside work I build machine learning projects in Python.
 
 Portfolio LinkedIn Resume Email
 
-💼 What I Do
+💼 What I Did
 Run FTOT / smoke testing of ECU software (mainline and release builds) on HIL setups to validate stability before further testing
 Built 300+ automated test cases across the ASW and BSW layers: torque management, diagnostics, functional safety (ISO 26262), regression, and ECU shutdown/wake-up robustness
 Work at the SWE.6 level of the V-model on safe state, electric machine currents, DC voltages, active short circuit/discharge, DC/DC voltage control, CAN communication, and rotor position sensors
