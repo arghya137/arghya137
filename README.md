@@ -1,14 +1,20 @@
 Hi, I'm Arghya Hazra 👋
 
-Automotive Software Engineer @ BMW Techworks India | Ex @ KPIT Technologies · Pune, India
+Calibration Engineer @ BMW TechWorks India · Ex-Automotive Software Engineer @ KPIT Technologies
 
-I have newly joined BMW Techworks India as a Calibration Engineer for BMW M-sport vehicles.
-
-Previously, I had worked on hybrid powertrain ECU software, specializing in smoke testing and initial validation in HIL (Hardware-in-the-Loop) environments. I enjoy requirement analysis, Python automation, and fault testing through root cause analysis. Outside work I build machine learning projects in Python.
+I recently joined BMW TechWorks India as a calibration engineer, working with datasets and calibration tools such as AVL CAMEO. Before that I worked on hybrid powertrain ECU software at KPIT, specializing in smoke testing and initial validation in HIL (Hardware-in-the-Loop) environments. I enjoy Python automation, data-driven analysis, and root cause analysis. Outside work I build machine learning projects in Python.
 
 Portfolio LinkedIn Resume Email
 
-💼 What I Did
+💼 What I Do
+
+Now: BMW TechWorks India (Calibration Engineer)
+
+Working with datasets and calibration tools such as AVL CAMEO
+Applying a validation mindset from HIL testing: data-driven analysis and root cause analysis
+
+Before: KPIT Technologies (Automotive Software Engineer)
+
 Run FTOT / smoke testing of ECU software (mainline and release builds) on HIL setups to validate stability before further testing
 Built 300+ automated test cases across the ASW and BSW layers: torque management, diagnostics, functional safety (ISO 26262), regression, and ECU shutdown/wake-up robustness
 Work at the SWE.6 level of the V-model on safe state, electric machine currents, DC voltages, active short circuit/discharge, DC/DC voltage control, CAN communication, and rotor position sensors
@@ -19,6 +25,10 @@ Flash software (application/bootloader) through PDX/ODX containers and resolve H
 Languages
 
 Show Image Show Image Show Image Show Image Show Image
+
+Calibration & Data
+
+Show Image Show Image
 
 Automotive & Embedded
 
@@ -58,7 +68,7 @@ Show Image Show Image
 
 💬 Ask Me About
 
-HIL testing · Test automation with Python · UDS / CAN · AUTOSAR basics · ML with Python · C / C++
+Calibration & dataset analysis · HIL testing · Test automation with Python · UDS / CAN · AUTOSAR basics · ML with Python · C / C++
 
 🌐 Elsewhere
 
